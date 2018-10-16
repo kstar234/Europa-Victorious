@@ -1,0 +1,21 @@
+state={
+	id=777
+	name="STATE_777"
+	provinces={
+		5006 8073 
+	}
+	
+	history={
+		owner = OTT
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = OTT
+
+	}
+	
+	manpower=750000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

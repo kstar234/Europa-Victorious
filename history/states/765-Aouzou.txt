@@ -1,0 +1,16 @@
+state={
+	id=765
+	name="STATE_765"
+	provinces={
+		13206 
+	}
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	manpower=633
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

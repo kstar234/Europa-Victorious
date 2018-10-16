@@ -1,0 +1,19 @@
+state={
+	id=775
+	name="STATE_775"
+	provinces={
+		10383 13223 
+	}
+	history={
+		owner = OTT
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = OTT
+
+	}
+	manpower=57230
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

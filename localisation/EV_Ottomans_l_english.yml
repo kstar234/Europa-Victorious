@@ -1,0 +1,27 @@
+﻿l_english:
+  #parties
+ OTT_communism_party:0 ""
+ OTT_communism_party_long:0 ""
+ OTT_revolutionary_liberalism_party:0 ""
+ OTT_revolutionary_liberalism_party_long:0 ""
+ OTT_radical_socialism_party:0 "Selanik Sosyalist İşçi Federasyonu"
+ OTT_radical_socialism_party_long:0 "Socialist Workers' Federation"
+ OTT_social_democracy_party:0 "Osmanlı Sosyalist Fırkası"
+ OTT_social_democracy_party_long:0 "Ottoman Socialist Party"
+ OTT_classical_liberalism_party:0 "Hürriyet ve İtilâf Fırkası"
+ OTT_classical_liberalism_party_long:0 "Liberal Union"
+ OTT_democratic_party:0 ""
+ OTT_democratic_party_long:0 ""
+ OTT_authoritarian_democracy_party:0 "İttihad ve Terakki Cemiyeti"
+ OTT_authoritarian_democracy_party_long:0 "Committee of Union and Progress"
+ OTT_neutrality_party:0 "Osmanlı Hanedanı"
+ OTT_neutrality_party_long:0 "Ottoman Dynasty\n§g§!"
+ OTT_fascism_party:0 "Jön Türkler"
+ OTT_fascism_party_long:0 "Young Turks"
+
+ #Country names
+ OTT_neutrality:0 "Ottoman Empire"
+ OTT_neutrality_DEF:0 "The Ottoman Empire"
+ OTT_neutrality_ADJ:0 "Turkish"
+ 
+ #cosmetic tags

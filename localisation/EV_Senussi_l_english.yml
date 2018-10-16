@@ -1,0 +1,32 @@
+﻿l_english:
+  #parties
+ LBA_communism_party:0 ""
+ LBA_communism_party_long:0 ""
+ LBA_revolutionary_liberalism_party:0 ""
+ LBA_revolutionary_liberalism_party_long:0 ""
+ LBA_radical_socialism_party:0 ""
+ LBA_radical_socialism_party_long:0 ""
+ LBA_social_democracy_party:0 ""
+ LBA_social_democracy_party_long:0 ""
+ LBA_classical_liberalism_party:0 ""
+ LBA_classical_liberalism_party_long:0 ""
+ LBA_democratic_party:0 ""
+ LBA_democratic_party_long:0 ""
+ LBA_authoritarian_democracy_party:0 ""
+ LBA_authoritarian_democracy_party_long:0 ""
+ LBA_neutrality_party:0 "Senussi dynasty"
+ LBA_neutrality_party_long:0 "Senussi Dynasty\n§gFounded by Muhammad ibn Ali as-Senussi as a simple Sufi order, the Senussi order has been one of the main proponents of Sufi Islam, in 1843 Muhammad Settled in Cyrenaica where he got support from the Sultan of Wadai and local tribes even rivalling Ottoman Influence at one point. The order soon became de facto rulers of the area.§!"
+ LBA_fascism_party:0 ""
+ LBA_fascism_party_long:0 ""
+
+ #Country names
+ LBA_neutrality:0 "Senussi Order"
+ LBA_neutrality_DEF:0 "The Senussi Order"
+ LBA_neutrality_ADJ:0 "Libyan"
+ 
+ #cosmetic tags
+ LBA_CYR_neutrality:0 "Emirate of Cyrenaica"
+ LBA_CYR_neutrality_DEF:0 "The Emirate of Cyrenaica"
+ 
+ LBA_UKL_neutrality:0 "Kingdom of Libya"
+ LBA_UKL_neutrality_DEF:0 "Kingdom of Libya"

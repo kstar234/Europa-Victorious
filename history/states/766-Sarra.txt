@@ -1,0 +1,16 @@
+state={
+	id=766
+	name="STATE_766"
+	provinces={
+		13207 
+	}
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	manpower=336
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
