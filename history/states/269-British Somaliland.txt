@@ -1,0 +1,25 @@
+
+state={
+	id=269
+	name="STATE_269"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+			12759 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		5068 10777 10833 10921 12759 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

@@ -226,8 +226,8 @@ SAF = {
 	color_ui = rgb { 198 169 248 }
 }
 SAU = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 50 105 70 }
+	color_ui = rgb { 50 105 70 }
 }
 SIA = {
 	color = rgb { 171 190 152 }
@@ -329,8 +329,8 @@ XSM = {
 }
 
 LBA = {
-	color = rgb { 200 180 90 }
-	color_ui = rgb { 200 180 90 }
+	color = rgb { 113 176 151 }
+	color_ui = rgb { 113 176 151 }
 }
 
 EGY = {
@@ -533,6 +533,23 @@ D15 = {
 }
 
 OTT = {
-	color = rgb { 50 80 50 }
-	color_ui = rgb { 50 80 50 }
+	color = rgb { 128 209 128 }
+	color_ui = rgb { 128 209 128 }
+}
+
+JAB = {
+color = rgb { 255 204 45 }
+color_ui = rgb { 255 204 45 }
+}
+MAJ = {
+color = rgb { 183 32 32 }
+color_ui = rgb { 183 32 32 }
+}
+HOB = {
+color = rgb { 255 163 56 }
+color_ui = rgb { 255 163 56 }
+}
+DER = {
+color = rgb { 67 147 195 }
+color_ui = rgb { 67 147 195 }
 }

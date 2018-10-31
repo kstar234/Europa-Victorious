@@ -24,4 +24,8 @@
  OTT_neutrality_DEF:0 "The Ottoman Empire"
  OTT_neutrality_ADJ:0 "Turkish"
  
+ OTT_authoritarian_democracy:0 "Ottoman Empire"
+ OTT_authoritarian_democracy_DEF:0 "The Ottoman Empire"
+ OTT_authoritarian_democracy_ADJ:0 "Turkish"
+ 
  #cosmetic tags

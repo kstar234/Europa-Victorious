@@ -4,6 +4,16 @@ state={
 	provinces={
 		13224 13226 13229 
 	}
+	
+	history={
+		owner = JAB
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = JAB
+
+	}
 	manpower=57000
 	buildings_max_level_factor=1.000
 	state_category=wasteland

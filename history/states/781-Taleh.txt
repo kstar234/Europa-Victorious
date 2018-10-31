@@ -1,0 +1,20 @@
+state={
+	id=781
+	name="STATE_781"
+	provinces={
+		1905 8094 12814 
+	}
+	
+	history={
+		owner = DER
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = DER
+
+	}
+	manpower=44700
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

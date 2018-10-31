@@ -1,0 +1,23 @@
+state={
+	id=778
+	name="STATE_778"
+	provinces={
+		2057 4968 4974 5027 5058 5099 7970 8101 10815 10901 12455 
+	}
+	
+	history={
+		owner = JAB
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = JAB
+
+	}
+	
+	manpower=440000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
